@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋
+### I am Aditya Gupta, am a rust and a blockchain developer, currently working in the areas of blockchain nodes and clients and rust fuzzing🦀🦀.
 
-<!--
-**1010adigupta/1010adigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects/Contrbutions
 
-Here are some ideas to get you started:
+#### Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [reth][reth] (contributor)
+
+#### Tools
+
+- [Foundry][foundry] (contributor)
+
+#### Libraries
+
+- [alloy][alloy] (contributor)
+  
+
+
+
+[reth]: https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3A1010adigupta
+[foundry]: https://github.com/foundry-rs/foundry/pulls?q=is%3Apr+author%3A1010adigupta+
+[alloy]: https://github.com/alloy-rs/alloy/pulls?q=is%3Apr+author%3A1010adigupta+
