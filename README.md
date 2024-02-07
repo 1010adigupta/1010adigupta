@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am Aditya Gupta, am a rust and a blockchain developer, currently working in the areas of blockchain nodes and clients and rust fuzzing🦀🦀.
+### I am Aditya Gupta, am a rust and a blockchain developer, currently working in the areas of PBS, MEVs, blockchain nodes and clients and rust fuzzing🦀🦀.
 
 ### Projects/Contrbutions
 
