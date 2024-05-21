@@ -3,21 +3,23 @@
 
 ### Projects/Contrbutions
 
-#### Software
+#### Clients
 
 - [reth][reth] (contributor)
+- [lighthouse][lighthouse] (contributor)
 
-#### Tools
+#### EVM Tooling
 
 - [Foundry][foundry] (contributor)
 
-#### Libraries
+#### EVM Libraries
 
 - [alloy][alloy] (contributor)
   
 
 
 
-[reth]: https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3A1010adigupta
-[foundry]: https://github.com/foundry-rs/foundry/pulls?q=is%3Apr+author%3A1010adigupta+
-[alloy]: https://github.com/alloy-rs/alloy/pulls?q=is%3Apr+author%3A1010adigupta+
+[reth]: https://github.com/paradigmxyz/reth
+[foundry]: https://github.com/foundry-rs/foundry
+[alloy]: https://github.com/alloy-rs
+[lighthouse]: https://github.com/sigp/lighthouse
