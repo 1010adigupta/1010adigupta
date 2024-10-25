@@ -15,7 +15,10 @@
 #### EVM Libraries
 
 - [alloy][alloy] (contributor)
-  
+
+#### Softwares
+
+- [brontes][brontes] (contributor)
 
 
 
@@ -23,3 +26,4 @@
 [foundry]: https://github.com/foundry-rs/foundry
 [alloy]: https://github.com/alloy-rs
 [lighthouse]: https://github.com/sigp/lighthouse
+[brontes]: https://github.com/SorellaLabs/brontes
